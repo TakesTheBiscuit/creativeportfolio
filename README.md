@@ -1,4 +1,5 @@
 # Creative portfolio group
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 This is super simple.
 
@@ -12,4 +13,13 @@ This is super simple.
 
 ## Contributors
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/TakesTheBiscuit"><img src="https://avatars0.githubusercontent.com/u/15122732?v=4" width="100px;" alt="Paul"/><br /><sub><b>Paul</b></sub></a><br /><a href="https://github.com/TakesTheBiscuit/creativeportfolio/commits?author=TakesTheBiscuit" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 TakesTheBiscuit

@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "TakesTheBiscuit",
+      "name": "Paul",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15122732?v=4",
+      "profile": "https://github.com/TakesTheBiscuit",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "creativeportfolio",
+  "projectOwner": "TakesTheBiscuit",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
