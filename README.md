@@ -12,4 +12,4 @@ This is super simple.
 
 ## Contributors
 
-Paul Drage - TakesTheBiscuit
+TakesTheBiscuit
