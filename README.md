@@ -13,6 +13,10 @@ This is super simple.
 
 ## Contributors
 
+`Add your name here`
+Paul
+
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 <table>
@@ -22,4 +26,4 @@ This is super simple.
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-TakesTheBiscuit
+
