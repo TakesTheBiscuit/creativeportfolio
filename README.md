@@ -1,3 +1,5 @@
+# Creative portfolio group
+
 This is super simple.
 
 1. Open this file `README.md` on https://github.com/TakesTheBiscuit/creativeportfolio (you already did it)
@@ -8,5 +10,6 @@ This is super simple.
 6. Click green 'commit changes' button
 7. Once your PR (pull request) is approved & merged you'll be a contributor, my friend.
 
-=== Contributors ===
+## Contributors
+
 Paul Drage - TakesTheBiscuit
